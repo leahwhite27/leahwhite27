@@ -31,12 +31,6 @@ I’m passionate about automation, embedded systems, and building smarter machin
 
 ---
 
-### 📈 GitHub Stats (optional – update with your username)
-
-![Leah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
----
-
 ### 📫 How to Reach Me
 
 > *“Robotics and control systems are where code meets the physical world — I’m here to learn, build, and keep improving.”*
